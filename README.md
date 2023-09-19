@@ -28,11 +28,6 @@ Further, the model will be a good way for management to understand the pricing d
 
 In this model we have used House price dataset
 
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
 
 ## Technologies Used
 - Numpy -- version -1.24.3
