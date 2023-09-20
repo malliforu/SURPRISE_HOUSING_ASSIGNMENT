@@ -1,5 +1,6 @@
 # SURPRISE_HOUSING_ASSIGNMENT
-Building Linear Regression using Ridge and Lasso Regularization Techniques for predicting the important features of House Price
+Building Multi 
+Linear Regression using Ridge and Lasso Regularization Techniques for predicting the important features of House Price
 
 ## Table of Contents
 * [General Info](#general-information)
